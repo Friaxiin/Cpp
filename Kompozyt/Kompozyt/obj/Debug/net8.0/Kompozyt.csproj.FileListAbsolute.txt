@@ -1,0 +1,14 @@
+C:\Users\4TP Patryk Łabuz\Desktop\Zadania\Kompozyt\Kompozyt\bin\Debug\net8.0\Kompozyt.exe
+C:\Users\4TP Patryk Łabuz\Desktop\Zadania\Kompozyt\Kompozyt\bin\Debug\net8.0\Kompozyt.deps.json
+C:\Users\4TP Patryk Łabuz\Desktop\Zadania\Kompozyt\Kompozyt\bin\Debug\net8.0\Kompozyt.runtimeconfig.json
+C:\Users\4TP Patryk Łabuz\Desktop\Zadania\Kompozyt\Kompozyt\bin\Debug\net8.0\Kompozyt.dll
+C:\Users\4TP Patryk Łabuz\Desktop\Zadania\Kompozyt\Kompozyt\bin\Debug\net8.0\Kompozyt.pdb
+C:\Users\4TP Patryk Łabuz\Desktop\Zadania\Kompozyt\Kompozyt\obj\Debug\net8.0\Kompozyt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4TP Patryk Łabuz\Desktop\Zadania\Kompozyt\Kompozyt\obj\Debug\net8.0\Kompozyt.AssemblyInfoInputs.cache
+C:\Users\4TP Patryk Łabuz\Desktop\Zadania\Kompozyt\Kompozyt\obj\Debug\net8.0\Kompozyt.AssemblyInfo.cs
+C:\Users\4TP Patryk Łabuz\Desktop\Zadania\Kompozyt\Kompozyt\obj\Debug\net8.0\Kompozyt.csproj.CoreCompileInputs.cache
+C:\Users\4TP Patryk Łabuz\Desktop\Zadania\Kompozyt\Kompozyt\obj\Debug\net8.0\Kompozyt.dll
+C:\Users\4TP Patryk Łabuz\Desktop\Zadania\Kompozyt\Kompozyt\obj\Debug\net8.0\refint\Kompozyt.dll
+C:\Users\4TP Patryk Łabuz\Desktop\Zadania\Kompozyt\Kompozyt\obj\Debug\net8.0\Kompozyt.pdb
+C:\Users\4TP Patryk Łabuz\Desktop\Zadania\Kompozyt\Kompozyt\obj\Debug\net8.0\Kompozyt.genruntimeconfig.cache
+C:\Users\4TP Patryk Łabuz\Desktop\Zadania\Kompozyt\Kompozyt\obj\Debug\net8.0\ref\Kompozyt.dll
